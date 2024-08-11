@@ -47,6 +47,8 @@ User-Friendly Onboarding: Feature a stylish login and registration interface wit
 Error Prevention: Ensure data accuracy with comprehensive form validation.
 
 ## Setup Instructions:
+Go to the Trackmate.zip file, click on 'view raw'
+Wait for download to finish and view in file explorer
 Open the app in PowerApps and start exploring its features and capabilities.
 
 ## License
