@@ -6,6 +6,8 @@ Welcome to TrackMate, an advanced Inventory Management System App! This cutting-
 ## Demo
 [Check out the live demo of TrackMate here](https://youtu.be/EGWLZp7LCUk?si=1Vfu8gcLVWoeNxU9)
 
+[View Screenshots and project presentaion](RADInventoryManagement%20(2).pdf)
+
 ## Key Features
 📊 Advanced Inventory Analytics
 Real-Time Data Insights: Get actionable insights into inventory levels, trends, and performance metrics.
