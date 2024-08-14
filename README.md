@@ -4,9 +4,9 @@
 Welcome to TrackMate, an advanced Inventory Management System App! This cutting-edge application is designed to revolutionize inventory management with its powerful features, sleek design, and robust functionality. Built with the latest technologies and best practices, this app is a testament to modern application development and user experience.
 
 ## Demo
-[Check out the live demo of TrackMate here](https://youtu.be/EGWLZp7LCUk?si=1Vfu8gcLVWoeNxU9)
+[View Screenshots and project presentation](RADInventoryManagement%20(2).pdf)
 
-[View Screenshots and project presentaion](RADInventoryManagement%20(2).pdf)
+[Check out the live demo of TrackMate here](https://youtu.be/EGWLZp7LCUk?si=1Vfu8gcLVWoeNxU9)
 
 ## Key Features
 📊 Advanced Inventory Analytics
